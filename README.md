@@ -4,6 +4,7 @@ by the body or insulin is not properly used by the body, resulting in excessivel
 (glucose) levels. If diabetes is detected in its initial phase, then the disease can be controlled. On
 the other hand, if diabetes is left undetected or untreated, it can cause serious harm to the body and
 make it difficult to treat.
+
 Diabetes is currently an incurable disease, and its treatment efficiency is primarily dependent on
 accurate diagnosis and timely treatment. Therefore, we need a method to control and provide early
 diagnostic information about DM. In order to detect diabetes, a wide variety of technologies and
